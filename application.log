@@ -1,0 +1,114 @@
+2025-02-27 20:24:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 20:24:52 INFO  RichTextEditorTest:24 - Initializing WebDriver and opening the application...
+2025-02-27 20:24:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 20:24:54 INFO  RichTextEditorTest:24 - Initializing WebDriver and opening the application...
+2025-02-27 20:24:55 INFO  RichTextEditorTest:28 - Browser launched and navigated to https://onlinehtmleditor.dev
+2025-02-27 20:24:55 INFO  RichTextEditorTest:33 - Starting the rich text editor test...
+2025-02-27 20:24:57 INFO  RichTextEditorTest:58 - All assertions passed successfully.
+2025-02-27 20:24:57 INFO  RichTextEditorTest:68 - Closing the browser and quitting WebDriver.
+2025-02-27 20:24:57 INFO  RichTextEditorTest:28 - Browser launched and navigated to https://onlinehtmleditor.dev
+2025-02-27 20:24:57 INFO  RichTextEditorTest:33 - Starting the rich text editor test...
+2025-02-27 20:24:59 INFO  RichTextEditorTest:58 - All assertions passed successfully.
+2025-02-27 20:24:59 INFO  RichTextEditorTest:68 - Closing the browser and quitting WebDriver.
+2025-02-27 20:26:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 20:26:47 INFO  RichTextEditorTest:24 - Initializing WebDriver and opening the application...
+2025-02-27 20:26:50 INFO  RichTextEditorTest:28 - Browser launched and navigated to https://onlinehtmleditor.dev
+2025-02-27 20:26:50 INFO  RichTextEditorTest:33 - Starting the rich text editor test...
+2025-02-27 20:26:51 INFO  RichTextEditorTest:58 - All assertions passed successfully.
+2025-02-27 20:26:51 INFO  RichTextEditorTest:68 - Closing the browser and quitting WebDriver.
+2025-02-27 20:27:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 20:27:11 INFO  SauceShopTests:33 - Test setup complete: WebDriver initialized.
+2025-02-27 20:27:11 INFO  SauceShopTests:47 - Starting test...
+2025-02-27 20:27:11 INFO  SauceShopTests:83 - Loading login data from: src/test/resources/credential.json
+2025-02-27 20:27:12 INFO  SauceShopTests:89 - Performing login...
+2025-02-27 20:27:17 INFO  SauceShopTests:98 - Login form submitted.
+2025-02-27 20:27:17 INFO  SauceShopTests:104 - Login successful.
+2025-02-27 20:27:17 INFO  SauceShopTests:108 - Adding item to cart...
+2025-02-27 20:27:17 INFO  SauceShopTests:116 - Item added to cart.
+2025-02-27 20:27:17 INFO  SauceShopTests:108 - Adding item to cart...
+2025-02-27 20:27:17 INFO  SauceShopTests:116 - Item added to cart.
+2025-02-27 20:27:17 INFO  SauceShopTests:120 - Checking out cart...
+2025-02-27 20:27:18 INFO  SauceShopTests:138 - Cart checked out.
+2025-02-27 20:27:18 INFO  SauceShopTests:41 - Test teardown complete: WebDriver closed.
+2025-02-27 20:27:19 INFO  SauceShopTests:33 - Test setup complete: WebDriver initialized.
+2025-02-27 20:27:19 INFO  SauceShopTests:89 - Performing login...
+2025-02-27 20:27:19 INFO  SauceShopTests:98 - Login form submitted.
+2025-02-27 20:27:19 INFO  SauceShopTests:104 - Login successful.
+2025-02-27 20:27:20 INFO  SauceShopTests:41 - Test teardown complete: WebDriver closed.
+2025-02-27 20:48:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 20:49:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 20:54:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 20:58:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 21:01:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 21:03:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 21:06:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 21:06:40 INFO  SauceShopTests:33 - Test setup complete: WebDriver initialized.
+2025-02-27 21:06:40 INFO  SauceShopTests:47 - Starting test...
+2025-02-27 21:06:40 INFO  SauceShopTests:83 - Loading login data from: src/test/resources/credential.json
+2025-02-27 21:06:40 INFO  SauceShopTests:89 - Performing login...
+2025-02-27 21:06:46 INFO  SauceShopTests:98 - Login form submitted.
+2025-02-27 21:06:46 INFO  SauceShopTests:104 - Login successful.
+2025-02-27 21:06:46 INFO  SauceShopTests:108 - Adding item to cart...
+2025-02-27 21:06:46 INFO  SauceShopTests:116 - Item added to cart.
+2025-02-27 21:06:46 INFO  SauceShopTests:108 - Adding item to cart...
+2025-02-27 21:06:46 INFO  SauceShopTests:116 - Item added to cart.
+2025-02-27 21:06:46 INFO  SauceShopTests:120 - Checking out cart...
+2025-02-27 21:06:46 INFO  SauceShopTests:138 - Cart checked out.
+2025-02-27 21:06:46 INFO  SauceShopTests:41 - Test teardown complete: WebDriver closed.
+2025-02-27 21:06:47 INFO  SauceShopTests:33 - Test setup complete: WebDriver initialized.
+2025-02-27 21:06:48 INFO  SauceShopTests:89 - Performing login...
+2025-02-27 21:06:48 INFO  SauceShopTests:98 - Login form submitted.
+2025-02-27 21:06:48 INFO  SauceShopTests:104 - Login successful.
+2025-02-27 21:06:48 INFO  SauceShopTests:41 - Test teardown complete: WebDriver closed.
+2025-02-27 21:06:48 INFO  RichTextEditorTest:24 - Initializing WebDriver and opening the application...
+2025-02-27 21:06:50 INFO  RichTextEditorTest:28 - Browser launched and navigated to https://onlinehtmleditor.dev
+2025-02-27 21:06:50 INFO  RichTextEditorTest:33 - Starting the rich text editor test...
+2025-02-27 21:06:51 INFO  RichTextEditorTest:58 - All assertions passed successfully.
+2025-02-27 21:06:51 INFO  RichTextEditorTest:68 - Closing the browser and quitting WebDriver.
+2025-02-27 21:17:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 21:18:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 21:19:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Szabo-Demeny Balazs\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-02-27 21:19:34 INFO  RestApiTest:20 - Setting up base URI for the API.
+2025-02-27 21:19:35 INFO  RestApiTest:26 - Starting test: testGetUsersAPI.
+2025-02-27 21:19:36 INFO  RestApiTest:36 - GET /users request completed with status code: 200
+2025-02-27 21:19:36 INFO  RestApiTest:39 - Parsed response into user list. Total users: 10
+2025-02-27 21:19:36 INFO  RestApiTest:41 - ----- User Names and Emails -----
+2025-02-27 21:19:36 INFO  RestApiTest:45 - Leanne Graham | Sincere@april.biz
+2025-02-27 21:19:36 INFO  RestApiTest:45 - Ervin Howell | Shanna@melissa.tv
+2025-02-27 21:19:36 INFO  RestApiTest:45 - Clementine Bauch | Nathan@yesenia.net
+2025-02-27 21:19:36 INFO  RestApiTest:45 - Patricia Lebsack | Julianne.OConner@kory.org
+2025-02-27 21:19:36 INFO  RestApiTest:45 - Chelsey Dietrich | Lucio_Hettinger@annie.ca
+2025-02-27 21:19:36 INFO  RestApiTest:45 - Mrs. Dennis Schulist | Karley_Dach@jasper.info
+2025-02-27 21:19:36 INFO  RestApiTest:45 - Kurtis Weissnat | Telly.Hoeger@billy.biz
+2025-02-27 21:19:36 INFO  RestApiTest:45 - Nicholas Runolfsdottir V | Sherwood@rosamond.me
+2025-02-27 21:19:36 INFO  RestApiTest:45 - Glenna Reichert | Chaim_McDermott@dana.io
+2025-02-27 21:19:36 INFO  RestApiTest:45 - Clementina DuBuque | Rey.Padberg@karina.biz
+2025-02-27 21:19:36 INFO  RestApiTest:50 - Test completed successfully: testGetUsersAPI.
